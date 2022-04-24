@@ -6,6 +6,9 @@ Presenting, IronJS! (CJS)
 
 IronJS is a javascript runtime that has a standard library similar to C's, following many C principles, allows for more readability, and simplicity. 
 
+[View the builtins here](./built.md)
+
+## Examples
 (**Print Hello world**)
 
 ```js
