@@ -1,0 +1,21 @@
+The CJS Standard Library
+
+stdfile - the filesystem handler.
+
+stdio - the STANDARD INPUT OUTPUT, put this at the top of your modules.
+
+stdprefix - functions for prepending to strings.
+
+dir/  - Contains files for working with directory information.
+
+debug/ - Contains debugging tools such as assert(expr)
+
+algo/ - contains functions for doing continuous operations (such as, foreach instead of classical for)
+
+math/ - Contains mathematical functions / consts.
+
+HOW TO INSTALL:
+
+You can embed this into your project by placing the include directory in the same dir as your .cjs file,
+
+Or you can use the installer to install the CJS standard library onto your computer.
