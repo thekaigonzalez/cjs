@@ -19,3 +19,5 @@ HOW TO INSTALL:
 You can embed this into your project by placing the include directory in the same dir as your .cjs file,
 
 Or you can use the installer to install the CJS standard library onto your computer.
+
+This repository also doubles as the CJS download site, go to releases to find setup binaries for the CJS language, and the CJS library
