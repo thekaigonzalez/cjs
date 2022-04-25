@@ -19,6 +19,10 @@ function main() {
     printf("hello, CJS!");
 }
 
+// CJS v2 Allows support for a main function, this code is for CJS 1.
+
+main()
+
 ```
 
 (**Create a file**)
