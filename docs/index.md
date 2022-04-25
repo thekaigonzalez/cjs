@@ -19,8 +19,6 @@ function main() {
     printf("hello, CJS!");
 }
 
-main()
-
 ```
 
 (**Create a file**)
