@@ -13,3 +13,7 @@ function printf(fmt, e) {
 function read() {
     return _syslstash();
 }
+
+function println(param) {
+    print(param);
+}
